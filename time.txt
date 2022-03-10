@@ -1,0 +1,7 @@
+time for day and night cycle (server time) 
+you can type **/time** in english chat 
+
+**03:00 - 09:00 Night
+09:00 - 15:00 Day
+15:00 - 21:00 Night
+21:00 - 03:00 Day**
